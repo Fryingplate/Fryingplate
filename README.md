@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Cloud ,DevOPs and Machine Learning**
 
-- 📫 How to reach me **samimujawar86@gmail.com**
+- 📫 How to reach me **sami11mujawar86@gmail.com**
 
 - ⚡ Fun fact **I think i am an Introvert:)**
 
