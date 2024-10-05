@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Sami Mujawar</h1>
+<h1 align="center">Hi 👋, I'm Fryingplate</h1>
 <h3 align="center">Cloud/DevOps and Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 
