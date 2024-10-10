@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **kvAPI** ⚒️
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Something🙂‍↕️**
 
 - 👯 I’m looking to collaborate on **Cloud/DevOps and Machine Learning**
 
