@@ -2,7 +2,7 @@
 <h3 align="center">Cloud/DevOps and Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sami530&label=Profile%20views&color=0e75b6&style=flat" alt="sami530" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fryingplate&label=Profile%20views&color=0e75b6&style=flat" alt="Fryingplate" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sami530" alt="Fryingplate" /></a> </p>
 
