@@ -2,11 +2,10 @@
 <h3 align="center">Cloud/DevOps and Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/221/221780.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fryingplate&label=Profile%20views&color=0e75b6&style=flat" alt="Fryingplate" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sami530" alt="Fryingplate" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning and DevOps**
+- 🔭 I’m currently working on **kvAPI** ⚒️
 
 - 🌱 I’m currently learning **DevOps**
 
