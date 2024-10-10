@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/221/221780.gif">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sami530" alt="Fryingplate" /></a> </p>
 
 - 🔭 I’m currently working on **kvAPI** ⚒️
 
