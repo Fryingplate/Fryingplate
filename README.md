@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fryingplate</h1>
 <h3 align="center">Cloud/DevOps and Machine Learning</h3>
-<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/221/221780.gif">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/ichigo-kurosaki-happy-windy-clear-skies-i50aaga8dfjnkjpm.webp">
 
 
 
